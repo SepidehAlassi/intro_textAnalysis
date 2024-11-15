@@ -1,0 +1,11 @@
+notebook
+pandas
+matplotlib
+spacy
+spacytextblob
+spacy_cleaner
+scikit-learn
+gensim
+scipy
+seaborn
+networkx
