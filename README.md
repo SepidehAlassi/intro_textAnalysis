@@ -1,8 +1,9 @@
-# An Introduction to Natural Language Processing
+# An Introduction to Text Analysis with Python
 
-This is an introduction to NLP with Python mainly using `spaCy`.
+This is an introduction to text analysis methods and NLP with Python (mainly using [spaCy](https://spacy.io/universe/project/spacy-cleaner)).
 
-To run the examples in this jupyter notebook, you need Python 3.11.
+To run the examples in the jupyter notebook `text_analysis.ipynb`, you need Python version higher than 3.11.
+
 ## Dependencies
 
 All necessary libraries are in `requirements.txt`
